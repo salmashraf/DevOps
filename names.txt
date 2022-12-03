@@ -14,5 +14,8 @@ Loay walid
 >>>>>>> 52d32d5c6e6b84be6b70af8cfedb46d58ad8572a
 =======
 Loay walid
+<<<<<<< HEAD
+ziad darwish
+=======
 Ahmed Nasr
 >>>>>>> 8ab8be74ec30a3a7a560180b935ce91a91518a21
